@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\bin\Debug\net10.0\CheckPoint_1.exe
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\bin\Debug\net10.0\CheckPoint_1.deps.json
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\bin\Debug\net10.0\CheckPoint_1.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\bin\Debug\net10.0\CheckPoint_1.dll
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\bin\Debug\net10.0\CheckPoint_1.pdb
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\CheckPoint_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\CheckPoint_1.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\CheckPoint_1.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\CheckPoint_1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\CheckPoint_1.dll
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\refint\CheckPoint_1.dll
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\CheckPoint_1.pdb
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\CheckPoint_1.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\CheckPoint_1\CheckPoint_1\obj\Debug\net10.0\ref\CheckPoint_1.dll
